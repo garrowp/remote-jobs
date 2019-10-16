@@ -232,7 +232,7 @@ Name | Website | Region
 [Jitbit](/company-profiles/jitbit.md) | https://www.jitbit.com/ | Worldwide
 [Jolly Good Code](/company-profiles/jolly-good-code.md) ⚠️️ | http://www.jollygoodcode.com |
 [Keen IO](/company-profiles/keen-io.md) ⚠️️ | https://keen.io/ |
-[Khan Academy](/company-profiles/khan-academy.md) ⚠️️ | https://www.khanacademy.org/ |
+[Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ |
 [KickBack Rewards Systems](/company-profiles/kickback-rewards-systems.md) ⚠️️ | http://careers.kickbacksystems.com |
 [Kiprosh](/company-profiles/kiprosh.md) | http://kiprosh.com | USA & India
 [Kissmetrics](/company-profiles/kissmetrics.md) | https://www.kissmetrics.com/ | USA & Worldwide
